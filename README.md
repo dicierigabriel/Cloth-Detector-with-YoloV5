@@ -17,28 +17,28 @@ Este projeto é um modelo YoloV5 treinado através do dataset DeepFashion2, foi 
 
 ## Visão Geral
 <br />
-<img src="results.png" width="200"/>
+<img src="results.png" width="600"/>
 <br />
 <br />
 
 ## Matriz de Confusão
 <br />
 <div class="box" style="display: inline-block;padding-right: 50px;">
-    <img src="confusion_matrix.png" width="200"/>
+    <img src="confusion_matrix.png" width="600"/>
 </div>
 <br />
 <br />
 
 ## Precisão
 <br />
-<img src="P_curve.png" width="200"/>
+<img src="P_curve.png" width="600"/>
 <br />
 <br />
 
 ## Recall
 <br />
 <div class="box" style="display: inline-block;padding-right: 50px;">
-    <img src="R_curve.png" width="200"/>
+    <img src="R_curve.png" width="600"/>
 </div>
 
 <br />
@@ -46,12 +46,12 @@ Este projeto é um modelo YoloV5 treinado através do dataset DeepFashion2, foi 
 
 ## Train Batch
 <br />
-<img src="train_batch0.jpg" alt="Login" width="200"/>
+<img src="train_batch0.jpg" alt="Login" width="600"/>
 <br />
 <br />
 
 ## Validation Batch
 <br />
-<img src="val_batch0_labels.jpg" alt="Login" width="200"/>
+<img src="val_batch0_labels.jpg" alt="Login" width="600"/>
 <br />
 <br />
